@@ -3,7 +3,7 @@
 #' @param animal name of animal, takes in string value
 #' @param sound sound made by the animal, takes in string value
 #'
-#' @return
+#' @return A string of the form "The \{animal\} says \{sound\}
 #' @export
 #'
 #' @examples
