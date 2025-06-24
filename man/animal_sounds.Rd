@@ -4,7 +4,7 @@
 \alias{animal_sounds}
 \title{Print the Sounds that Animals Make}
 \usage{
-animal_sounds(animal, sound)
+animal_sounds(animal = NULL, sound = NULL)
 }
 \arguments{
 \item{animal}{name of animal, takes in string value}

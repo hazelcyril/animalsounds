@@ -1,11 +1,14 @@
 Package: animalsounds
-Title: What the Package Does (One Line, Title Case)
+Title: Prints Sounds that Animals Make
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Hazel", "Cyril", , "hazel.cyril@warwick.ac.uk", role = c("aut", "cre"))
+Description: The animalsounds package validates user input and prints the sounds
+             that animals make. The validation is done through internal 
+             functions and the printing is done using the animal_sounds() 
+             function which accepts animal and sound as input string. 
+             Ideal input is one animal and one sound.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2

@@ -4,9 +4,9 @@
 \name{animalsounds-package}
 \alias{animalsounds}
 \alias{animalsounds-package}
-\title{animalsounds: What the Package Does (One Line, Title Case)}
+\title{animalsounds: Prints Sounds that Animals Make}
 \description{
-What the package does (one paragraph).
+The animalsounds package validates user input and prints the sounds that animals make. The validation is done through internal functions and the printing is done using the animal_sounds() function which accepts animal and sound as input string. Ideal input is one animal and one sound.
 }
 \seealso{
 Useful links:
@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: Hazel Cyril \email{hazel.cyril@warwick.ac.uk}
 
 }
 \keyword{internal}
